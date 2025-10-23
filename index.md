@@ -1,10 +1,10 @@
 ---
-title: "[Carson Dunn] — Game Developer Portfolio"
+title: "Carson Dunn — Game Developer Portfolio"
 description: "A showcase of my games, experiments, and prototypes."
 layout: default
 ---
 
-# 🎮 [Carson Dunn] — Game Developer Portfolio
+# Carson Dunn — Game Developer Portfolio
 
 Game Developer from Delaware. I like to make all sorts of games and work either solo or with rather large teams. I'm a generalist in most solo work, but I do specialize in 3D art as a Technical Artist on larger teams. In development, I don't have too many preferences when it comes to 2D, 3D, art style, game engine or whatever- though I do prefer Godot in many circumstances to Unity, which I am also experienced in. I am also currently working for Dark Tonic on their game Blunderbusted, a gallery-shooter roguelike, as a technical artist. 
 Below are my games, many of which were group work for University classes, game jams, or other sponsored projects. The higher ones are more recent, and I believe reflect my best work. Some standouts are as follows:
@@ -18,9 +18,10 @@ This website aims to have everything in one place, featuring playable games stra
 
 ## 🕹️ Featured Games
 
-### 🧩 [Wooden Wars](https://csdcsdcsd.itch.io/wooden-wars)
+### [Wooden Wars](https://csdcsdcsd.itch.io/wooden-wars)
 
-> *A 2D puzzle-platformer about bending time to solve impossible levels.*
+> *A realtime strategy game about making your wooden army.*
+> *We won the game jam this was submitted to!*
 
 <iframe frameborder="0" src="https://itch.io/embed-upload/15229107?color=333333" allowfullscreen="" width="1152" height="668"><a href="https://csdcsdcsd.itch.io/wooden-wars">Play Wooden Wars on itch.io</a></iframe>
 
