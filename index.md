@@ -30,8 +30,7 @@ This website aims to have everything in one place, featuring playable games stra
 ### ⚔️ [Kronos Manor](https://csdcsdcsd.itch.io/kronos-manor)
 
 > *A point and click about a curious manor.*
-<iframe frameborder="0" src="https://itch.io/embed/3410820" width="552" height="167"><a href="https://csdcsdcsd.itch.io/kronos-manor">Kronos Manor by CSD</a></iframe>
-
+<iframe frameborder="0" src="https://itch.io/embed-upload/13685866?color=7d362a" allowfullscreen="" width="1152" height="668"><a href="https://csdcsdcsd.itch.io/kronos-manor">Play Kronos Manor on itch.io</a></iframe>
 ---
 
 ## 🧪 Other Smaller Games
